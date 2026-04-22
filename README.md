@@ -2,6 +2,7 @@
 
 This repository contains multiple implementations and applications of **Linear Regression**, built from scratch and using real-world datasets. It focuses on understanding both the **mathematics** and **practical implementation** of machine learning models.
 
+---
 ## Projects File Included
 
 ### Beijing PM2.5 Linear Regression
@@ -25,6 +26,7 @@ This repository contains multiple implementations and applications of **Linear R
 - Predicts obesity-related outcomes
 - Includes feature engineering and model evaluation
 
+---
 ## Concepts Covered
 
 - Simple Linear Regression  
@@ -34,6 +36,7 @@ This repository contains multiple implementations and applications of **Linear R
 - Feature Scaling  
 - Model Evaluation  
 
+---
 ## Tech Stack
 
 - Python 
