@@ -45,7 +45,7 @@ This repository contains multiple implementations and applications of **Linear R
 - Matplotlib  
 - Jupyter Notebook  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/AditiParashar19/LinearRegression.git
 
 This project performs Linear Regression on the Beijing PM2.5 dataset to predict PM2.5 air pollution levels based on meteorological features.
 
